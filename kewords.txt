@@ -1,2 +1,1 @@
 git config --local user.name "<USERNAME/>"
-git config --local user.email "<mailid@domain.something/>"
